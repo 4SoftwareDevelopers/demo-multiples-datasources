@@ -1,6 +1,6 @@
 # demo-multiples-datasources
 
-Ejemplo práctico en el que se muestra como configurar multiples datasources en una aplicaci.
+Ejemplo práctico en el que se muestra como configurar multiples datasources en una aplicación que utiliza Spring Framework.
 
 
 <b>Vídeo con el ejemplo:</b><br>
